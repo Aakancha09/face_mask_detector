@@ -1,0 +1,5 @@
+opencv-python==4.8.1.78
+Pillow==10.1.0
+protobuf==4.24.4
+tensorflow==2.14.0
+websockets==11.0.3
